@@ -13,10 +13,9 @@ like Rekognition, Lex, Transcribe and Elastic search for some of our functionali
 
 **Team Member:** 
 
-[Andy]: https://github.com/zhmandy
-[Koko]: https://github.com/tomatolike
-[Aeenie]: https://github.com/XijiaoLi
-[Rayleigh]: https://github.com/RayleighJin
+Andy: https://github.com/zhmandy			Aeenie: https://github.com/XijiaoLi 
+
+Koko: https://github.com/tomatolike		 Rayleigh: https://github.com/RayleighJin
 
 ## Architecture
 
